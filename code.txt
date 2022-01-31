@@ -1,0 +1,5 @@
+created new branch myslide
+push it to github using git push --set-upstream origin myslide
+but before that connect local repository git_bash to remote using command
+git remote add origin https://github.com/parulmahant/gitbahs.demo.github
+now created new file in it and using atom to edit the file.
